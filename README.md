@@ -27,3 +27,9 @@
 - "My favorite social network has a command line interface."<br>
 - "I turn coffee into code and push it to GitHub."<br>
 - "GitHub is my portfolio."<br>
+
+## For Development
+- Problem Solver → Developers are solution-finders using logic & code.<br>
+- Creative → They turn ideas into reality through apps, websites, or systems.<br>
+- Lifelong Learner → Tech evolves fast, so they always need to keep learning.<br>
+- Team Player → Developers can’t do it all alone, teamwork is the key!<br>
