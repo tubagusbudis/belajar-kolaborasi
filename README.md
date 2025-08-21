@@ -7,7 +7,7 @@
 - "The git in GitHub is for 'get together' – to create something amazing."<br>
 - "Every commit is a step forward. Every pull request is an invitation to build something better, together."<br>
 
-##Technical & Developer-Focused
+## Technical & Developer-Focused
 - "GitHub: git push your limits. git pull the world's knowledge."<br>
 - "Home is where your .git directory is."<br>
 - "In a world of ones and zeros, GitHub is our common language."<br>
