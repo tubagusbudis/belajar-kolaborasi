@@ -29,6 +29,7 @@
 - "GitHub is my portfolio."<br>
 
 ## For Development
-- test 1
-- test 2
-- test 3
+- Problem Solver → Developers are solution-finders using logic & code.<br>
+- Creative → They turn ideas into reality through apps, websites, or systems.<br>
+- Lifelong Learner → Tech evolves fast, so they always need to keep learning.<br>
+- Team Player → Developers can’t do it all alone, teamwork is the key!<br>
